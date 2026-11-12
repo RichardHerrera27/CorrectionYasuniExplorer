@@ -1,0 +1,15 @@
+ec\espoch\edu\yasunicorrectionproject\implementation\GuideImplDAO.class
+ec\espoch\edu\yasunicorrectionproject\interfaces\InterfazRegularTourDAO.class
+ec\espoch\edu\yasunicorrectionproject\objetos\Guide.class
+ec\espoch\edu\yasunicorrectionproject\implementation\TourImplDAO.class
+ec\espoch\edu\yasunicorrectionproject\objetos\Console.class
+ec\espoch\edu\yasunicorrectionproject\implementation\RegularTourImplDAO.class
+ec\espoch\edu\yasunicorrectionproject\objetos\Device.class
+ec\espoch\edu\yasunicorrectionproject\implementation\DeviceImplDAO.class
+ec\espoch\edu\yasunicorrectionproject\objetos\InterpretativeTour.class
+ec\espoch\edu\yasunicorrectionproject\interfaces\InterfazInterpretativeTourDAO.class
+ec\espoch\edu\yasunicorrectionproject\objetos\SeveralTrail.class
+ec\espoch\edu\yasunicorrectionproject\objetos\Tour.class
+ec\espoch\edu\yasunicorrectionproject\YasuniCorrectionProject.class
+ec\espoch\edu\yasunicorrectionproject\implementation\InterpretativeTourImplDAO.class
+ec\espoch\edu\yasunicorrectionproject\objetos\RegularTour.class
